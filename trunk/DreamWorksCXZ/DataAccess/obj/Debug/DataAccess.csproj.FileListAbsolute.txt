@@ -1,0 +1,17 @@
+K:\梦工厂\DreamWorksCXZ\DataAccess\bin\Debug\DataAccess.dll
+K:\梦工厂\DreamWorksCXZ\DataAccess\bin\Debug\DataAccess.pdb
+K:\梦工厂\DreamWorksCXZ\DataAccess\bin\Debug\DataModel.dll
+K:\梦工厂\DreamWorksCXZ\DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+K:\梦工厂\DreamWorksCXZ\DataAccess\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+K:\梦工厂\DreamWorksCXZ\DataAccess\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+K:\梦工厂\DreamWorksCXZ\DataAccess\bin\Debug\DataModel.pdb
+K:\梦工厂\DreamWorksCXZ\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+K:\梦工厂\DreamWorksCXZ\DataAccess\obj\Debug\DataAccess.dll
+K:\梦工厂\DreamWorksCXZ\DataAccess\obj\Debug\DataAccess.pdb
+E:\MyPro\zxc-dream-works\DreamWorksCXZ\DataAccess\bin\Debug\DataAccess.dll
+E:\MyPro\zxc-dream-works\DreamWorksCXZ\DataAccess\bin\Debug\DataAccess.pdb
+E:\MyPro\zxc-dream-works\DreamWorksCXZ\DataAccess\bin\Debug\DataModel.dll
+E:\MyPro\zxc-dream-works\DreamWorksCXZ\DataAccess\bin\Debug\DataModel.pdb
+E:\MyPro\zxc-dream-works\DreamWorksCXZ\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\MyPro\zxc-dream-works\DreamWorksCXZ\DataAccess\obj\Debug\DataAccess.dll
+E:\MyPro\zxc-dream-works\DreamWorksCXZ\DataAccess\obj\Debug\DataAccess.pdb

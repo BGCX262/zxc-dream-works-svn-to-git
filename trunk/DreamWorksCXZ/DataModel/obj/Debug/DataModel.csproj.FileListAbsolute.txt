@@ -1,0 +1,10 @@
+K:\梦工厂\DreamWorksCXZ\DataModel\bin\Debug\DataModel.dll
+K:\梦工厂\DreamWorksCXZ\DataModel\bin\Debug\DataModel.pdb
+K:\梦工厂\DreamWorksCXZ\DataModel\obj\Debug\ResolveAssemblyReference.cache
+K:\梦工厂\DreamWorksCXZ\DataModel\obj\Debug\DataModel.dll
+K:\梦工厂\DreamWorksCXZ\DataModel\obj\Debug\DataModel.pdb
+E:\MyPro\zxc-dream-works\DreamWorksCXZ\DataModel\bin\Debug\DataModel.dll
+E:\MyPro\zxc-dream-works\DreamWorksCXZ\DataModel\bin\Debug\DataModel.pdb
+E:\MyPro\zxc-dream-works\DreamWorksCXZ\DataModel\obj\Debug\ResolveAssemblyReference.cache
+E:\MyPro\zxc-dream-works\DreamWorksCXZ\DataModel\obj\Debug\DataModel.dll
+E:\MyPro\zxc-dream-works\DreamWorksCXZ\DataModel\obj\Debug\DataModel.pdb
